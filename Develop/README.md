@@ -1,10 +1,10 @@
-# Readme file generator
+# Readme File generator
   
 undefined
 
 ## Description
 
-Creates readme files for users to help streamline the process of making readme files
+This project helps users to quickly create a readme file instead of having to do the process themselves
 
 ## Table of Contents 
 
